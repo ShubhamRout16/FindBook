@@ -1,4 +1,4 @@
-# Book Finder Web Application
+# Book Finder 
 
 A web application that allows users to search for books using the Google Books API, save their favorites to local storage, and manage their collection with a clean, dark-mode enabled interface.
 
