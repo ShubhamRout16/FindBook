@@ -11,7 +11,6 @@ A web application that allows users to search for books using the Google Books A
   - Clear all saved books at once
 - **Dark/Light Mode**: Toggle between color schemes with persistent settings
 - **Toast Notifications**: Visual feedback for user actions
-- 
 ## Technologies Used
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6)
